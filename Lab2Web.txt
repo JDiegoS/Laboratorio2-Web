@@ -442,3 +442,5 @@ LISTEN                0                       128                               
 LISTEN                0                       128                                       127.0.0.53%lo:domain                                        0.0.0.0:*
 LISTEN                0                       128                                                [::]:ssh                                              [::]:*
 LISTEN                0                       128                                                [::]:http                                             [::]:*
+
+prueba
